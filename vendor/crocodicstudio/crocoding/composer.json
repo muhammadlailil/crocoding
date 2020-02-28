@@ -1,0 +1,19 @@
+{
+    "name": "crocodicstudio/crocoding",
+    "description": "Crocoding is CRUD generator based on lumen",
+    "license": "MIT",
+    "type" : "library",
+    "authors": [
+        {
+            "name": "Muhammad Lailil Mahfud",
+            "email": "laililmahvut@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "crocodicstudio\\crocoding\\": "src/"
+        }
+    }
+}
